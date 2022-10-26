@@ -19,7 +19,6 @@ char *leet(char *s)
 	int stringCount, leetCount;
 	char leetLetters[] = "aAeEoOtTlL";
 	char leetNums[] = "4433007711";
-
 	/*  scan through string */
 	stringCount = 0;
 	while (s[stringCount] != '\0')
